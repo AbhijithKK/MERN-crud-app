@@ -1,0 +1,22 @@
+
+
+.mains{
+   
+    margin-left: 33rem;
+    margin-top: 10rem;
+    /* transform: translate(-50%, -50%); */
+    width: 673px;
+    background: #583c3c59;
+    border-radius: 10px;
+    box-shadow: 0 3px 25px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    height: 251px !important;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+ }
+ .editForm{
+    margin-top: -6rem;
+    font-family: monospace;
+}
+ 
